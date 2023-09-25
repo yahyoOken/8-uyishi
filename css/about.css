@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.satr {
+  width: 1920px;
+  height: 44px;
+  flex-shrink: 0;
+  background: #000;
+  align-items: center;
+  padding-top: 14px;
+  padding-left: 14px;
+}
+.nomer {
+  color: var(--gray, #969696);
+  font-family: PT Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  justify-content: flex-start;
+  display: flex;
+  padding-left: 436px;
+}
+
+.kirchiq {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 405px;
+  color: var(--gray, #969696);
+  text-align: right;
+  font-family: PT Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration-line: none;
+}
+
+.boshi {
+  align-content: center;
+  align-items: center;
+}
+
+.qat2 {
+  width: 1920px;
+  height: 80px;
+  flex-shrink: 0;
+  background: #0f0f0f;
+  text-align: center;
+}
+
+.port {
+  color: #fff;
+  font-family: Post No Bills Jaffna;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 104px;
+  height: 49px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: first baseline;
+  padding-left: 405px;
+  padding-top: 15px;
+  padding-bottom: 16px;
+  padding-right: 1411px;
+}
+
+.gpl {
+  text-align: center;
+}
+
+.nm {
+  flex-direction: row;
+  justify-content: center;
+  color: #fff;
+  font-family: PT Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+  color: var(--gray, #969696);
+  font-family: PT Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+.rasm {
+  width: 1920px;
+  height: 810px;
+  flex-shrink: 0;
+  background: linear-gradient(
+      0deg,
+      rgba(15, 15, 15, 0.5) 0%,
+      rgba(15, 15, 15, 0.5) 100%
+    ),
+    url(/images/orqa\ fon.png), lightgray 50% / cover no-repeat;
+  padding-top: 160px;
+}
+
+.ortagap {
+  width: 320px;
+  height: 320px;
+  flex-shrink: 0;
+  border: 4px solid #fff;
+  margin: auto;
+  text-align: center;
+}
+
+.ortagap h2 {
+  color: #fff;
+  text-align: center;
+  font-family: Post No Bills Jaffna;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-right: 867px;
+  margin-top: 253px;
+  margin-bottom: 471px;
+  width: 185px;
+  height: 86px;
+  flex-shrink: 0;
+}
+
+.rasmj {
+  background: linear-gradient(
+      0deg,
+      rgba(15, 15, 15, 0.5) 0%,
+      rgba(15, 15, 15, 0.5) 100%
+    ),
+    url(/images/soatlibola.jfif), lightgray 50% / cover no-repeat, #000;
+
+  width: 960px;
+  height: 730px;
+  flex-shrink: 0;
+}
